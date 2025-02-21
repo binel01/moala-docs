@@ -11,11 +11,11 @@ import AirtelLogoImageUrl from '@site/static/img/providers/logo-airtel.jpg';
 
 <img src={MoalaLogoImageUrl} />
 
-Bienvenue dans la documentation de développement de **MOALA**, dans laquelle vous allez découvrir comment créer des expériences de paiement exceptionneles en utilisant notre API de paiement.
+Welcome into **MOALA** development documentation, in which you will discover how to create exceptionnal payment experiences using the payment API.
 
-Moala est un agrégateur de paiements opérant dans 4 pays en Afrique (Cameroun, Gabon, Sénégal, Côte d'Ivoire), fournissant des API pour faciliter les transactions entre commerçants et clients. Moala n’a pas d’application dédiée donc elle se concentre sur l’intégration directe avec les systèmes des commerçants.
+MOALA is a payment agregator available in 4 countries in Africa (Cameroon, Gabon, Senegal and Ivory Coast), providing API to facilitate transactions between components and clints. MOALA doesn't have a dedicated application, so it focus on direct integration with merchant systems.
 
-Les moyens de paiement intégrés à l'API de MOALA sont les suivants :
+Payment means integrated with MOALA API are the following :
 
 <div style={{ textAlign: 'center' }} className='providers'>
     <div className="logo">

@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Introduction au Tutoriel
+# Tutorial Introduction
 
-Découvrons **Docusaurus en moins de 5 minutes**.
+Let us discover **MOALA API in less than 5 minutes**.
 
-## Pour commencer
+## Getting started
 
 Commencez par **créer un nouveau site**.
 
