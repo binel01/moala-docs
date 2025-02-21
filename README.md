@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This is the documentation to build the MOALA DOCs website.
 
 ### Installation
 
