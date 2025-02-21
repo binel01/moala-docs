@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /suport-contact
 ---
 
 # Support & Contact
